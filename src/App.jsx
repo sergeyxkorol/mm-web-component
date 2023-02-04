@@ -2,6 +2,12 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import "./App.css";
 
+import A from "../mm-core-public/vite.svg";
+
+import B from "../mmsrc/App";
+
+console.log("A", B);
+
 function App() {
   const [count, setCount] = useState(0);
 
