@@ -1,0 +1,3 @@
+[submodule "mm-core"]
+	path = mm-core
+	url = https://github.com/sergeyxkorol/mm-core.git
