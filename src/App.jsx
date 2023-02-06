@@ -4,9 +4,7 @@ import "./App.css";
 
 import A from "../mm-core-public/vite.svg";
 
-import B from "../mmsrc/App";
-
-console.log("A", B);
+console.log("A", A);
 
 function App() {
   const [count, setCount] = useState(0);
