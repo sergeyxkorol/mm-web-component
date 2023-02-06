@@ -2,7 +2,7 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import "./App.css";
 
-import A from "../mmcp/vite.svg";
+import A from "../mmc-public/vite.svg";
 
 console.log("A", A);
 
