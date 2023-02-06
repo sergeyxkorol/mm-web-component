@@ -2,9 +2,8 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import "./App.css";
 
-import A from "../mmc-public/vite.svg";
-
-console.log("A", A);
+import A from "@mm-core/src/App";
+console.log("This is code from the submodule", A);
 
 function App() {
   const [count, setCount] = useState(0);
